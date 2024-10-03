@@ -56,8 +56,8 @@ Assertion results can be found below
 
 ## Coverage
 Coverage Results can be found below 
-  - Code Coverage
+###Code Coverage
     ![image](https://github.com/user-attachments/assets/d624e5f6-f237-4d65-b01b-760adf540a32)
-  - Functional Coverage
+###Functional Coverage
     ![image](https://github.com/user-attachments/assets/ce5a661f-04ae-49c8-85ce-2911e22f6a67)
 
