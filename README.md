@@ -10,7 +10,7 @@
   
   Computation Storage architectures, allow the host to do this in one command
     
-    •	send one commend with address 1 to read OP1, address 2 to read OP2, operation (add/sub/..etc), write address to store results. 
+    •	Send one commend with address 1 to read OP1, address 2 to read OP2, operation (add/sub/..etc), write address to store results. 
     •	The DUT internally will handle the whole operation. 
     Design Architecture
  
